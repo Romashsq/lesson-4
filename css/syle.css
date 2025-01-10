@@ -176,3 +176,36 @@ li > a {
 h1 + p {
   color: coral;
 }
+
+div.images img {
+  width: 350px;
+  height: 350px;
+  border: 5px solid pink;
+  margin: 10px 20px 30px;
+}
+
+div.hover-effect li:hover {
+  color: pink;
+  border: 3px solid wheat;
+}
+
+a[href*="ithillel"] {
+  color: blue;
+}
+
+#page1 {
+  color: red;
+}
+
+#page2 {
+  color: aqua;
+}
+
+#page5 {
+  color: pink;
+}
+
+#page4 {
+  font-size: 20px;
+  font-weight: 800;
+}
