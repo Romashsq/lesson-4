@@ -209,3 +209,7 @@ a[href*="ithillel"] {
   font-size: 20px;
   font-weight: 800;
 }
+
+.github-changes {
+  color: aqua;
+}
